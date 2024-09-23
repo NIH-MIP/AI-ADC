@@ -34,7 +34,7 @@ pip3 install -r requirements.txt
 #### 2.1 Qualitative Results on NCI In-house Dataset:
 
 <p align="center">
-<img src='imgs/real_stom_depth_fig.png' width=800/> 
+<img src='imgs/nci_qual.png' width=800/> 
 </p>
 
 #### 2.2 Qualitative Results on ProstateX:
