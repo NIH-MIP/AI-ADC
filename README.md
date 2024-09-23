@@ -40,5 +40,5 @@ pip3 install -r requirements.txt
 #### 2.2 Qualitative Results on ProstateX:
 
 <p align="center">
-<img src='imgs/real_stom_depth_fig.png' width=800/> 
+<img src='imgs/prostateX_qual.png' width=800/> 
 </p>
