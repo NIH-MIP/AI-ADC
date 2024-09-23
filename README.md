@@ -18,7 +18,7 @@
 ```bash
 cd ~
 git clone https://github.com/Kutsev-Ozyoruk/AI-ADC
-cd EndoSLAM
+cd AI-ADC
 ```
 
 #### Prerequisities
@@ -29,17 +29,15 @@ You will need to build the Endo-SFMLearner environment by following commend:
 pip3 install -r requirements.txt
 ```
 
-For the details of EndoSfM-Learner, please check the "EndoSfMLearner" folder.
-
 ### 2. Qualitative Evaluations
 
-#### 2.1 Qualitative Results on ProstateX
+#### 2.1 Qualitative Results on NCI In-house Dataset:
 
 <p align="center">
 <img src='imgs/real_stom_depth_fig.png' width=800/> 
 </p>
 
-#### 2.2 Qualitative Results on ProstateX
+#### 2.2 Qualitative Results on ProstateX:
 
 <p align="center">
 <img src='imgs/real_stom_depth_fig.png' width=800/> 
