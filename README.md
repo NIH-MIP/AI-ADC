@@ -1,8 +1,4 @@
 # AI-ADC: Channel and Spatial Attention based Contrastive Learning to Generate ADC maps from T2W MRI for Prostate Cancer Detection
-# <p align="center">
-# <img align="center"  src='imgs/EndoSLAM_Logo.jpeg' width=456/> 
-# </p>
-
 
 
 ## Getting Started
@@ -13,7 +9,7 @@
 
 ```bash
 cd ~
-git clone https://github.com/Kutsev-Ozyoruk/AI-ADC
+git clone https://github.com/NIH-MIP/AI-ADC
 cd AI-ADC
 ```
 
