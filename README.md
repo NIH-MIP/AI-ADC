@@ -19,7 +19,7 @@ cd AI-ADC
 
 #### Prerequisities
 
-You will need to build the Endo-SFMLearner environment by following commend:
+You will need to build the AI-ADC environment by following commend:
 
 ```bash
 pip3 install -r requirements.txt
