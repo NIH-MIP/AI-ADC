@@ -3,11 +3,7 @@
 # <img align="center"  src='imgs/EndoSLAM_Logo.jpeg' width=456/> 
 # </p>
 
-## AI-ADC train test dataset
 
-<p align="center">
-  <img src="imgs/ply2.gif" alt="ply" />
-</p>
 
 ## Getting Started
 
